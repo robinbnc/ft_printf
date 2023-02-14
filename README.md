@@ -22,7 +22,7 @@
 ## Usage
 #### Generate the library
 ```
-git clone https://github.com/robinbnc/ft_printf_v2_remastered.git ft_printf
+git clone https://github.com/robinbnc/ft_printf.git 
 make -C ft_printf
 ```
 #### Use the library
