@@ -32,6 +32,8 @@ $(CC) $(CFLAGS) -Lft_printf -lftprintf -c $< -o $@
 ```
 #### Use the function
 ```c
+#include "ft_printf/ft_printf.h"
+
 int main(int argc, char *argv[])
 {
   ft_printf("%42.42d\n", 42);
